@@ -9,7 +9,8 @@
     "react-dom": "^16.8.6",
     "react-responsive": "^7.0.0",
     "react-scripts": "3.0.1",
-    "react-spring": "^8.0.25"
+    "react-spring": "^8.0.25",
+    "styled-components": "^4.3.2"
   },
   "scripts": {
     "start": "react-scripts start",

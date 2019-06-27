@@ -17,54 +17,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
-}
-
-.form-bg {
-  background-color: rgba(0, 0, 0, 0.4);
-  position: fixed;
-  opacity: 0;
-  visibility: hidden;
-  top: 0;
-  right: 0;
-  width: 100vw;
-  height: 100vh;
-  z-index: 100;
-}
-
-form {
-  position: fixed;
-  top: 0;
-  left: 0;
-  height: 100vh;
-  padding-left: 2rem;
-  padding-right: 2rem;
-  margin-right: auto;
-  width: 33vw;
-  background-color: #fff;
-  border-radius: 3px;
-  box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1), 0 5px 15px rgba(0, 0, 0, 0.5);
-  z-index: 101;
-}
-
-h1 {
-  margin-top: 0;
-  padding-top: 2rem;
-  margin-bottom: 3.236rem;
-  text-align: center;
-  font-size: 1.618rem;
-}
-
-.form-group {
-  padding: 0;
-  border: 0;
-}
-
-.form-group + .form-group {
-  margin-top: 1rem;
-}
 
 label {
   display: inline-block;
